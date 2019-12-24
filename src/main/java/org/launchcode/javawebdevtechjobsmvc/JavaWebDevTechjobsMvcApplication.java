@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class JavaWebDevTechjobsMvcApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(JavaWebDevTechjobsMvcApplication.class, args);
 	}
 
